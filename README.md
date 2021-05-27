@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JosephXing
 - 👀 I’m interested in Medical Imaging Processing
-- 🌱 I’m currently learning segmation method based on deep learning
+- 🌱 I’m currently learning segmentation method based on deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : emali to xingjiezhen@gmail.com
 
